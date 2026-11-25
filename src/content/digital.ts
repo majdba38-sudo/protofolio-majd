@@ -37,8 +37,8 @@ export const digitalProjects: DigitalProject[] = [
       ar: 'تجربة تسوق غامرة لمنتجات طبيعية مستوحاة من استكشاف غابة ساحرة، يشعر فيها الزائر بأنه يتجول في الطبيعة ويكتشف المنتجات أثناء التمرير.',
     },
     status: 'live',
-url: 'https://roa-shop.majdba-38.workers.dev/',
-    preview: '',
+    url: 'https://roa-shop.majdba-38.workers.dev/',
+    preview: '/media/digital/roa-nature.png',
     highlights: [
       { en: 'Forest-inspired digital environment', ar: 'بيئة رقمية مستوحاة من الغابة' },
       { en: 'Natural textures', ar: 'ملامس طبيعية' },

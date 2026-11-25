@@ -19,7 +19,7 @@ export const site = {
   } as Localized,
   contact: {
     /** Public email address. Example: 'hello@yourdomain.com' */
-    email: '',
+    email: 'Majdba.38@gmail.com',
     /**
      * Form endpoint that accepts JSON POST requests, such as Formspree
      * (https://formspree.io/f/your-id) or any API you control. Leave empty to use email fallback.
